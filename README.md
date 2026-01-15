@@ -112,9 +112,9 @@ That's it! You’re now running a custom cryptographic accelerator on bare-metal
 ⚠️ **Note:**
 The generated bitstream (*.bit) and hardware description file (*.hwh) are already included in this repository under the bitstream/ folder.
 You do not need to rebuild the project unless you want to:
-\*Inspect or modify the design
-\*Regenerate the bitstream manually
-\*Integrate with custom logic or interfaces
+*Inspect or modify the design
+*Regenerate the bitstream manually
+*Integrate with custom logic or interfaces
 The instructions below are for recreating the Vivado project from scratch.
 
 To recreate the Vivado project and regenerate the bitstream:
